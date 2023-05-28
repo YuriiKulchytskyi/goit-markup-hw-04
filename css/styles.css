@@ -381,13 +381,13 @@ nav li a:focus {
     justify-content: center;
 }
 
-.soc-list-footer li a:hover {
-    background-color: var(--pressed-state);
+.footer .a-soc:hover {
+    background-color: var(--success);
 }
 
 
-.soc-list-footer li a:focus {
-    background-color: var(--pressed-state);
+.footer .a-soc:focus {
+    background-color: var(--success);
 }
 
 
