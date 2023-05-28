@@ -618,6 +618,12 @@ nav li a:focus {
 }
 
 .footer-container {
+    align-items: baseline;
+    display: flex;
+    margin-right: 120px;
+}
+
+.logo-footer {
     margin-right: 120px;
 }
 
