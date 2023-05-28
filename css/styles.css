@@ -371,6 +371,21 @@ nav li a:focus {
     width: 100%;
 }
 
+.soc-a {
+    width: 100%;
+    height: 100%;
+    background-color: var(--brand-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.soc-a:hover,
+.soc-a:focus {
+    background-color: var(--pressed-state );
+}
+
 .soc-list-footer li a {
     width: 100%;
     height: 100%;
@@ -381,12 +396,12 @@ nav li a:focus {
     justify-content: center;
 }
 
-.footer .a-soc:hover {
+.footer .a-soc-footer:hover {
     background-color: var(--success);
 }
 
 
-.footer .a-soc:focus {
+.footer .a-soc-footer:focus {
     background-color: var(--success);
 }
 
@@ -439,7 +454,7 @@ nav li a:focus {
     color: var(--subtle-text);
 }
 
-.width-height{
+.width-height {
     width: 100%;
     height: 100%;
 }
