@@ -438,10 +438,11 @@ nav li a:focus {
     padding-bottom: 120px;
 }
 
-/* .customer-list {
+.customer-list {
     gap: 24px;
-    width: 1128px;
-} */
+    width: 100%;
+    height: 100%;
+}
 
 .customer-link {
     /* width: 100%;
@@ -454,10 +455,10 @@ nav li a:focus {
     color: var(--subtle-text);
 }
 
-.width-height {
+/* .width-height {
     width: 100%;
     height: 100%;
-}
+} */
 
 .customer-link:hover,
 .customer-link:focus {
