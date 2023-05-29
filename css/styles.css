@@ -520,19 +520,14 @@ nav li a:focus {
     /* margin-bottom: 16px; */
 }
 
-.paragraph-footer-soc {
-    margin-bottom: 16px;
+.soc-footer-p {
     font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--white-background);
-    /* margin-bottom: 16px; */
+    margin-bottom: 16px;
 }
 
 .soc-list-footer {
     display: flex;
-    /* gap: 16px; */
+    gap: 16px;
     width: 100%;
 }
 
@@ -540,7 +535,6 @@ nav li a:focus {
     margin-left: 0;
     color: var(--white-background);
     width: 208px;
-    /* height: 80px; */
 }
 
 .svg-studio-footer-section {
