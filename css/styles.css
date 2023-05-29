@@ -522,7 +522,7 @@ nav li a:focus {
 
 .soc-footer-p {
     font-weight: 500;
-    margin-bottom: 16px;
+    /* margin-bottom: 16px; */
 }
 
 .soc-list-footer {
@@ -535,6 +535,10 @@ nav li a:focus {
     margin-left: 0;
     color: var(--white-background);
     width: 208px;
+}
+
+.social-media p {
+    margin-bottom: 16px;
 }
 
 .svg-studio-footer-section {
