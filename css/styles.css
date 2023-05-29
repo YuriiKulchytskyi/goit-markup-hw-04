@@ -522,7 +522,7 @@ nav li a:focus {
 
 .soc-footer-p {
     font-weight: 500;
-    /* margin-bottom: 16px; */
+    margin: 0;
 }
 
 .soc-list-footer {
