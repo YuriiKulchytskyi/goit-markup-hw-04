@@ -449,7 +449,7 @@ nav li a:focus {
 } */
 
 .customer-link {
-    width: 100%;
+    width: 168px;
     height: 88px;
     border-radius: 4px;
     border: 1px solid var(--subtle-text);
